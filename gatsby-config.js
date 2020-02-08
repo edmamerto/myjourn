@@ -9,12 +9,12 @@ module.exports = {
     siteUrl: url,
     title: 'Blog by John Doe',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      'Writing notes, because i forget things',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: 'Journal',
         path: '/',
       },
       {
@@ -27,7 +27,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: 'Edgar Mamerto (Ed)',
       email: '#',
       telegram: '#',
       twitter: '#',
