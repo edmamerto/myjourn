@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: 'Blog by John Doe',
     subtitle:
-      'Writing notes, because i forget things',
+      'Writing notes, because i forget things.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
