@@ -58,3 +58,13 @@ print nums
 
 # prints [2,3,4]
 ```
+
+### For vs. While
+these two are equivalent
+```python
+i=0
+while i < len(nums):
+	i+=1
+```
+```python
+for i in len(nums):
