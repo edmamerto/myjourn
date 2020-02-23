@@ -9,7 +9,7 @@ tags:
   - "Algorithms"
   - "Interviewing"
   - "Python"
-description: "Different tiers and their benefits with concepts and examples"
+description: "Taking note of my python mistakes"
 ---
 
 
